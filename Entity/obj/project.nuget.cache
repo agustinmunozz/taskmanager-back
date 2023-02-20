@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7FH2q+oEJPkubOoWutjXFn+Cn6HH+KFmi4EmKAjjEd0HSanXF3sBgWxWsiL2Hwsqto+nRO8mVt8W0F8odUQHAg==",
+  "dgSpecHash": "FIfEFcuAuLHProByvn9wyn8XqBDDqFX1mdFso+T1jd8o91N4Qao1tJ2RmOp7MNVMz+WKmmiBybLPwrUzzWNiiw==",
   "success": true,
-  "projectFilePath": "C:\\Agustin\\Proyectos\\taskmanager\\VueTareas-back\\Entity\\Entity.csproj",
+  "projectFilePath": "C:\\Agustin\\Proyectos\\Git\\taskmanager\\backend\\Entity\\Entity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Agus\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Agus\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

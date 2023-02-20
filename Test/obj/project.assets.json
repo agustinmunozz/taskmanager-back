@@ -11196,11 +11196,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Agustin\\Proyectos\\taskmanager\\VueTareas-back\\Test\\VueTareas.csproj",
+      "projectUniqueName": "C:\\Agustin\\Proyectos\\Git\\taskmanager\\backend\\Test\\VueTareas.csproj",
       "projectName": "VueTareas",
-      "projectPath": "C:\\Agustin\\Proyectos\\taskmanager\\VueTareas-back\\Test\\VueTareas.csproj",
+      "projectPath": "C:\\Agustin\\Proyectos\\Git\\taskmanager\\backend\\Test\\VueTareas.csproj",
       "packagesPath": "C:\\Users\\Agus\\.nuget\\packages\\",
-      "outputPath": "C:\\Agustin\\Proyectos\\taskmanager\\VueTareas-back\\Test\\obj\\",
+      "outputPath": "C:\\Agustin\\Proyectos\\Git\\taskmanager\\backend\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Agus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -11217,11 +11217,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Agustin\\Proyectos\\taskmanager\\VueTareas-back\\BLL\\BLL.csproj": {
-              "projectPath": "C:\\Agustin\\Proyectos\\taskmanager\\VueTareas-back\\BLL\\BLL.csproj"
+            "C:\\Agustin\\Proyectos\\Git\\taskmanager\\backend\\BLL\\BLL.csproj": {
+              "projectPath": "C:\\Agustin\\Proyectos\\Git\\taskmanager\\backend\\BLL\\BLL.csproj"
             },
-            "C:\\Agustin\\Proyectos\\taskmanager\\VueTareas-back\\Entity\\Entity.csproj": {
-              "projectPath": "C:\\Agustin\\Proyectos\\taskmanager\\VueTareas-back\\Entity\\Entity.csproj"
+            "C:\\Agustin\\Proyectos\\Git\\taskmanager\\backend\\Entity\\Entity.csproj": {
+              "projectPath": "C:\\Agustin\\Proyectos\\Git\\taskmanager\\backend\\Entity\\Entity.csproj"
             }
           }
         }

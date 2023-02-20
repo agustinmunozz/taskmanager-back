@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EyQL/LcVQcnz7/c//CZ8sEPWz8Roz9SrB9l1EF7PSzB7g5qOi1ZPoCrYhShF/KeebRmvUusryLXJTBNBzGCl9A==",
+  "dgSpecHash": "dCxywNRjINhFVAIzELQqhlu8ftaAbvlgzZVKTmoPKAQVIIfkULdBG4uaMeJTS6EMtKhC3NeotgqlsKRzYeEzOA==",
   "success": true,
-  "projectFilePath": "C:\\Agustin\\Proyectos\\taskmanager\\VueTareas-back\\Test\\VueTareas.csproj",
+  "projectFilePath": "C:\\Agustin\\Proyectos\\Git\\taskmanager\\backend\\Test\\VueTareas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Agus\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Agus\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

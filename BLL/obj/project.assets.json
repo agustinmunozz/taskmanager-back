@@ -10821,11 +10821,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Agustin\\Proyectos\\taskmanager\\VueTareas-back\\BLL\\BLL.csproj",
+      "projectUniqueName": "C:\\Agustin\\Proyectos\\Git\\taskmanager\\backend\\BLL\\BLL.csproj",
       "projectName": "BLL",
-      "projectPath": "C:\\Agustin\\Proyectos\\taskmanager\\VueTareas-back\\BLL\\BLL.csproj",
+      "projectPath": "C:\\Agustin\\Proyectos\\Git\\taskmanager\\backend\\BLL\\BLL.csproj",
       "packagesPath": "C:\\Users\\Agus\\.nuget\\packages\\",
-      "outputPath": "C:\\Agustin\\Proyectos\\taskmanager\\VueTareas-back\\BLL\\obj\\",
+      "outputPath": "C:\\Agustin\\Proyectos\\Git\\taskmanager\\backend\\BLL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Agus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10842,8 +10842,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Agustin\\Proyectos\\taskmanager\\VueTareas-back\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\Agustin\\Proyectos\\taskmanager\\VueTareas-back\\DAL\\DAL.csproj"
+            "C:\\Agustin\\Proyectos\\Git\\taskmanager\\backend\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Agustin\\Proyectos\\Git\\taskmanager\\backend\\DAL\\DAL.csproj"
             }
           }
         }

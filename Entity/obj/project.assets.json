@@ -10024,11 +10024,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Agustin\\Proyectos\\taskmanager\\VueTareas-back\\Entity\\Entity.csproj",
+      "projectUniqueName": "C:\\Agustin\\Proyectos\\Git\\taskmanager\\backend\\Entity\\Entity.csproj",
       "projectName": "Entity",
-      "projectPath": "C:\\Agustin\\Proyectos\\taskmanager\\VueTareas-back\\Entity\\Entity.csproj",
+      "projectPath": "C:\\Agustin\\Proyectos\\Git\\taskmanager\\backend\\Entity\\Entity.csproj",
       "packagesPath": "C:\\Users\\Agus\\.nuget\\packages\\",
-      "outputPath": "C:\\Agustin\\Proyectos\\taskmanager\\VueTareas-back\\Entity\\obj\\",
+      "outputPath": "C:\\Agustin\\Proyectos\\Git\\taskmanager\\backend\\Entity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Agus\\AppData\\Roaming\\NuGet\\NuGet.Config",

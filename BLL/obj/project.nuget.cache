@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2JJv3o4SWYwNmCG3KrSpo9fF2JTL6UkFXeiP6cRiwbidNzSx1Muk3F1VYp45A2+UZxOms7pxWluIvpTAg2aduA==",
+  "dgSpecHash": "l3yqgrJsMl507VATU/2mHaM/hiAm3NvHI/TbtJJ7lZjEYR0DVrW5b3t0OksEkqjU1Sp/TVENYi0hpNd8iiMXog==",
   "success": true,
-  "projectFilePath": "C:\\Agustin\\Proyectos\\taskmanager\\VueTareas-back\\BLL\\BLL.csproj",
+  "projectFilePath": "C:\\Agustin\\Proyectos\\Git\\taskmanager\\backend\\BLL\\BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Agus\\.nuget\\packages\\epplus.core\\1.5.4\\epplus.core.1.5.4.nupkg.sha512",
     "C:\\Users\\Agus\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

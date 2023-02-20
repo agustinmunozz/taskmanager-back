@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4ewsvRQg+YOhfAG+EaDFkiV2y2ydt7c3SxG4yBX2UiImXNJRwIB3JRwd0M3LPBe/xxeO9KbhyM3jY+cgv1begA==",
+  "dgSpecHash": "wSpBHzgvegZ1VXYb8ZTKNWiqflHtcu6rjQU6UOe1QBzN+YlGLV8HtcXzgDO73aGKz6s8yGxDgjdsd8Uw2n3eMw==",
   "success": true,
-  "projectFilePath": "C:\\Agustin\\Proyectos\\taskmanager\\VueTareas-back\\DAL\\DAL.csproj",
+  "projectFilePath": "C:\\Agustin\\Proyectos\\Git\\taskmanager\\backend\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Agus\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Agus\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

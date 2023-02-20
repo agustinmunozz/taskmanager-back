@@ -1,0 +1,13 @@
+C:\Users\Agus\source\repos\Test\DAL\bin\Debug\netstandard2.1\DAL.deps.json
+C:\Users\Agus\source\repos\Test\DAL\bin\Debug\netstandard2.1\DAL.dll
+C:\Users\Agus\source\repos\Test\DAL\bin\Debug\netstandard2.1\DAL.pdb
+C:\Users\Agus\source\repos\Test\DAL\bin\Debug\netstandard2.1\Entity.dll
+C:\Users\Agus\source\repos\Test\DAL\bin\Debug\netstandard2.1\Entity.pdb
+C:\Users\Agus\source\repos\Test\DAL\obj\Debug\netstandard2.1\DAL.AssemblyInfoInputs.cache
+C:\Users\Agus\source\repos\Test\DAL\obj\Debug\netstandard2.1\DAL.AssemblyInfo.cs
+C:\Users\Agus\source\repos\Test\DAL\obj\Debug\netstandard2.1\DAL.csproj.CopyComplete
+C:\Users\Agus\source\repos\Test\DAL\obj\Debug\netstandard2.1\DAL.dll
+C:\Users\Agus\source\repos\Test\DAL\obj\Debug\netstandard2.1\DAL.pdb
+C:\Users\Agus\source\repos\Test\DAL\obj\Debug\netstandard2.1\DAL.csproj.AssemblyReference.cache
+C:\Users\Agus\source\repos\Test\DAL\obj\Debug\netstandard2.1\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agus\source\repos\Test\DAL\obj\Debug\netstandard2.1\DAL.csproj.CoreCompileInputs.cache

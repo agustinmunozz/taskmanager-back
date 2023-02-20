@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Class1.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="BLL\LoginBLL.css" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EPPlus.Core" Version="1.5.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DAL\DAL.csproj" />
+  </ItemGroup>
+
+</Project>

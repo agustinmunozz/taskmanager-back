@@ -1,0 +1,15 @@
+C:\Users\Agus\source\repos\Test\DAL\bin\Release\net6.0\DAL.deps.json
+C:\Users\Agus\source\repos\Test\DAL\bin\Release\net6.0\DAL.dll
+C:\Users\Agus\source\repos\Test\DAL\bin\Release\net6.0\DAL.pdb
+C:\Users\Agus\source\repos\Test\DAL\bin\Release\net6.0\Entity.dll
+C:\Users\Agus\source\repos\Test\DAL\bin\Release\net6.0\Entity.pdb
+C:\Users\Agus\source\repos\Test\DAL\obj\Release\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Agus\source\repos\Test\DAL\obj\Release\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agus\source\repos\Test\DAL\obj\Release\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Agus\source\repos\Test\DAL\obj\Release\net6.0\DAL.AssemblyInfo.cs
+C:\Users\Agus\source\repos\Test\DAL\obj\Release\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Agus\source\repos\Test\DAL\obj\Release\net6.0\DAL.csproj.CopyComplete
+C:\Users\Agus\source\repos\Test\DAL\obj\Release\net6.0\DAL.dll
+C:\Users\Agus\source\repos\Test\DAL\obj\Release\net6.0\refint\DAL.dll
+C:\Users\Agus\source\repos\Test\DAL\obj\Release\net6.0\DAL.pdb
+C:\Users\Agus\source\repos\Test\DAL\obj\Release\net6.0\ref\DAL.dll

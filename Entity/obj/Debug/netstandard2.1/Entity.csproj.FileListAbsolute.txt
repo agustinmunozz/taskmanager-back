@@ -1,0 +1,10 @@
+C:\Users\Agus\source\repos\Test\Entity\bin\Debug\netstandard2.1\Entity.deps.json
+C:\Users\Agus\source\repos\Test\Entity\bin\Debug\netstandard2.1\Entity.dll
+C:\Users\Agus\source\repos\Test\Entity\bin\Debug\netstandard2.1\Entity.pdb
+C:\Users\Agus\source\repos\Test\Entity\obj\Debug\netstandard2.1\Entity.AssemblyInfoInputs.cache
+C:\Users\Agus\source\repos\Test\Entity\obj\Debug\netstandard2.1\Entity.AssemblyInfo.cs
+C:\Users\Agus\source\repos\Test\Entity\obj\Debug\netstandard2.1\Entity.dll
+C:\Users\Agus\source\repos\Test\Entity\obj\Debug\netstandard2.1\Entity.pdb
+C:\Users\Agus\source\repos\Test\Entity\obj\Debug\netstandard2.1\Entity.csproj.AssemblyReference.cache
+C:\Users\Agus\source\repos\Test\Entity\obj\Debug\netstandard2.1\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agus\source\repos\Test\Entity\obj\Debug\netstandard2.1\Entity.csproj.CoreCompileInputs.cache

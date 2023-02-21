@@ -1,33 +1,26 @@
-.DS_Store
-node_modules
-/dist
+/Apis/bin
+/Apis/obj
+/Apis/Properties
+/Apis/Properties/*
 /packages
-/public/reportes
+/Service/obj
+/Service/bin
+/Service/Service.csproj.vspscc
+/Service/Service.csproj.user
+/Entity/obj
+/Entity/bin
+/DAL/obj
+/DAL/bin
+/BLL/obj
+/BLL/bin
+/Apis/Apis.csproj.vspscc
+/Apis/Apis.csproj.user
+/BLL/BLL.csproj.vspscc
+/Apis/appsettings.Development.json
+/DAL/DAL.csproj.vspscc
+/Entity/Entity.csproj.vspscc
+/lib
 
-# local env files
-.env.local
-.env.*.local
-
-# Log files
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# Editor directories and files
-.idea
-.vscode
-*.suo
-*.ntvs*
-*.njsproj
-*.sw*
-CRMVue.csproj.user
-CRMVue.csproj.vspscc
-package-lock.json
-
-*.xls
-*.xlsx
-*.doc
-*.docx
-*.pdf
-*.vsidx
+\.vs/
+\.vscode/
 

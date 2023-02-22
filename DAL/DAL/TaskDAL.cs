@@ -140,12 +140,12 @@ namespace DAL
                                 join tt in _context.TaskTypes on ts.TaskTypeId equals tt.Id
                                 where (filters.Id == null || ts.Id == filters.Id)
                                 && ts.State == "A"
-                                && (String.IsNullOrEmpty(filters.Description) || ts.Description == filters.Description)
+                                && (String.IsNullOrEmpty(filters.Description) || ts.Description.Contains(filters.Description))
                                 && (filters.TaskTypeId == null || filters.TaskTypeId == 0 || ts.TaskTypeId == filters.TaskTypeId)
                                 && (filters.TaskStatusId == null || filters.TaskStatusId == 0 || ts.TaskStatusId == filters.TaskStatusId)
-                                && (filters.CreatedDate == null || ts.CreatedDate == filters.CreatedDate)
-                                && (filters.RequiredDate == null || ts.RequiredDate == filters.RequiredDate)
-                                && (filters.DateClose == null || ts.DateClose == filters.DateClose)
+                                && (filters.CreatedDate == null || ts.CreatedDate.Date == filters.CreatedDate.Value.Date)
+                                && (filters.RequiredDate == null || ts.RequiredDate.Value.Date == filters.RequiredDate.Value.Date)
+                                && (filters.DateClose == null || ts.DateClose.Value.Date == filters.DateClose.Value.Date)
                                 select new
                                 {
                                     ts.DateClose,

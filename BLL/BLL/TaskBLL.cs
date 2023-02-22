@@ -131,7 +131,7 @@ namespace BLL
 					["NextActionDate"] = "NextActionDate",
 					["Description"] = "Description",
 					["StatusDesc"] = "StatusDesc",
-					["Status"] = "Status",				
+					["Status"] = "Status",		
 				};
 				var dt = Exportador.ToDataTable(array.ToList(), props);
 				return Exportador.GenerarExcel(dt, columnas, titulo, nombre, "", null);

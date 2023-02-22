@@ -103,10 +103,10 @@ namespace DAL
 								where (filters.Id == null || cs.Id == filters.Id)
 								&& cs.State == "A"
 								&& (filters.TaskId == null || cs.TaskId == filters.TaskId)
-								&& (String.IsNullOrEmpty(filters.Comment) || cs.Comment1 == filters.Comment)
-								&& (filters.CreatedDate == null || cs.CreatedDate == filters.CreatedDate)
+								&& (String.IsNullOrEmpty(filters.Comment) || cs.Comment1.Contains(filters.Comment))
+								&& (filters.CreatedDate == null || cs.CreatedDate.Date == filters.CreatedDate.Value.Date)
 								&& (filters.CommentTypeId == null || filters.CommentTypeId == 0 || cs.CommentTypeId == filters.CommentTypeId)
-								&& (filters.ReminderDate == null || cs.ReminderDate == filters.ReminderDate)
+								&& (filters.ReminderDate == null || cs.ReminderDate.Value.Date == filters.ReminderDate.Value.Date)
 								select new { cs.ReminderDate, cs.CreatedDate, cs.UserId, cs.Comment1, cs.CommentTypeId, 
 											 cs.TaskId, commentTypeDesc = ct.Description, cs.Id };
 
